@@ -37,3 +37,19 @@ A partir de la base de datos de la World Happiness Report se ha hecho un anális
         - 1.6.2. Matriz correlación por país
 	- 1.6.3. Análisis de las matrices de correlación
 - #### 2. CONCLUSIONES
+
+## Autor
+
+* **Guillem Pañella Valiente** - [will9pv22](https://https://github.com/will9pv22)
+
+### *Información de contacto:*
+___
+* Email: ***p.maker17@gmail.com***
+* Linkedin: ***https://https://www.linkedin.com/in/guillempa%C3%B1ellavaliente/***
+---
+
+## Tutores 
+
+* **Alberto Romero**  
+* **Iván Cordero** 
+* **Lucas Zamora** 
