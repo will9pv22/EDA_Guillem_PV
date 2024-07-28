@@ -18,3 +18,22 @@ A partir de la base de datos de la World Happiness Report se ha hecho un anális
 
 6. memoria.pdf: archivo memoria explicando el proyecto.
 
+### *Contenido notebook EDA* 
+
+---
+- [ 1. ANÁLISIS EXPLORATORIO DE DATOS (EDA):]
+    - [1.1. Explicación motivación base de datos y diferentes variables]
+    - [1.2. Hipótesis]
+    - [1.3. Acondicionamiento bases de datos y tratamiento de nulos]
+    - [1.4. Añadir variables necesarias para análisis]
+    - [1.5. Análisis univariante]
+        - [1.5.1. Distribución de cada variable
+        - [1.5.2. Boxplot de cada variable
+        - [1.5.3. Estadísticas descriptivas de cada variable
+        - [1.5.4. Evolución de países más felices y menos felices
+	- [1.5.5. Análisis tablas extraidas
+    - [1.6. Análisis bivariante]
+        - [1.6.1. Matriz correlación por continente
+        - [1.6.2. Matriz correlación por país
+	- [1.6.3. Análisis de las matrices de correlación
+- [2. CONCLUSIONES]
