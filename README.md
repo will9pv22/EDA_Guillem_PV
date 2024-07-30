@@ -33,7 +33,7 @@ A partir de la base de datos de la World Happiness Report se ha hecho un anális
         - 1.5.4. Evolución de países más felices y menos felices
 	- 1.5.5. Análisis tablas extraidas
     - 1.6. Análisis bivariante
-        - 1.6.1. Matriz correlación por continente
+        - 1.6.1. Análisis por continente
         - 1.6.2. Matriz correlación por país
 	- 1.6.3. Análisis de las matrices de correlación
 - #### 2. CONCLUSIONES
